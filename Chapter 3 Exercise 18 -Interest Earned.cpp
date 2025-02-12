@@ -3,7 +3,7 @@
 //This program asks for user input regarding principal, interest rate and compounding periods then displays calculations based on input.
 
 #include <iostream>
-#include <iomanip>s
+#include <iomanip> // For setprecision and fixed
 #include <cmath>  // For pow function
 
 using namespace std;
